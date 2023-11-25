@@ -3,7 +3,7 @@ import random
 population_size = 1000000
 positive_percentage = 0.52
 negative_percentage = 0.48
-sample_sizes = [20, 100, 400,900]
+sample_sizes = [20, 100, 400]
 num_experiments = 100
 target_probability = 0.9
 
